@@ -32,7 +32,7 @@ sudo ln -s lempire-search.py /usr/bin/lempire-search
 sudo chmod +x /usr/bin/lempire-search
 ```
 
-4. Enjoy :happy:
+4. Enjoy 😀
 
 ```bash
 ❯ python3 lempire-search.py -h
